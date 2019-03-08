@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+.main {
+  background-image: url(https://www.reprograma.com.br/speed-hiring/assets/img/header.png);
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-position: 50vw;
+  margin: 5rem;
+}
+.main__title{
+  margin-left: 2rem;
+}
+
+section{
+  margin: 2rem;
+}
+
+section ul > li {
+  margin-top: 1rem;
+}
