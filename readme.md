@@ -6,8 +6,8 @@
   * clone 
   * criar branch com seu nome
   * criar arquivo `seunome.html`
-  * copiar código do arquivo `index.html`
-  * editar o arquivo com seu nome e inserir links
+  * copiar código do arquivo `index.html` e colar no `seunome.html`
+  * editar o arquivo com seu nome e inserir links, conforme imagem abaixo
   * commit, pull e push
   * enviar pull request
 
