@@ -11,5 +11,5 @@
   * commit, pull e push
   * enviar pull request
 
-![imagem do arquivo index.html renderizado](./readme-img.png)
+![imagem do arquivo index.html renderizado](./img/readme-img.png)
 
