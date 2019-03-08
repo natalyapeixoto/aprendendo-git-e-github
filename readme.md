@@ -1,7 +1,6 @@
 ### exercício:
 * subir projetos já feitos no github
-* criar link no github pages ou netlify
-* colocar este link JUNTAMENTE com o link do repositório do github no projeto aprendendo-git-e-github
+* colocar o link do repositório do github no projeto aprendendo-git-e-github
 
 ##### - no projeto aprendendo-git-e-github
   * clone 
